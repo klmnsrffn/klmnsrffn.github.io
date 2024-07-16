@@ -4,22 +4,22 @@
 I’ve got a B.A. in Philosophy from Universitas Gadjah Mada, where I sharpened my analytical thinking and reasoning chops. My journey into the data science realm has been fuelled by a desire to merge abstract thinking with practical application, giving me a unique angle on problem-solving.
 
 ### Education
-##### B.A in Philosophy, Universitas Gadjah Mada at Yogyakarta. Indonesia. August 2020
+- BA in Philosophy, Universitas Gadjah Mada at Yogyakarta. Indonesia. August 2020
 
 ### Sertifications
-##### Data Science and Machine Learning, Purwadhika Digital Technology School at Batam, Indonesia. March - July 2024
-##### Data Analysis, MySkill Intensive Bootcamp. September - October 2023
-##### UX Writer, Jobhun Academy. September - October 2022
+- Data Science and Machine Learning, Purwadhika Digital Technology School at Batam, Indonesia. March - July 2024
+- Data Analysis, MySkill Intensive Bootcamp. September - October 2023
+- UX Writer, Jobhun Academy. September - October 2022
 
 
 ### Skills and Expertise
-- Programming Languages: Python, SQL\
-- Data Analysis: Exploratory Data Analysis (EDA), Statistical Analysis, Hypothesis Testing\
-- Machine Learning: Supervised and Unsupervised Learning, Model Evaluation, Hyperparameter Tuning\
-- Tools and Technologies: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Jupyter Notebooks\
-- Data Visualisation: Matplotlib, Seaborn, Plotly, Tableau\
-- Big Data Technologies: Hadoop, Spark\
-- Model Interpretability: SHAP (SHapley Additive exPlanations)\
+- Programming Languages: Python, SQL
+- Data Analysis: Exploratory Data Analysis (EDA), Statistical Analysis, Hypothesis Testing
+- Machine Learning: Supervised and Unsupervised Learning, Model Evaluation, Hyperparameter Tuning
+- Tools and Technologies: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Jupyter Notebooks
+- Data Visualisation: Matplotlib, Seaborn, Plotly, Tableau
+- Big Data Technologies: Hadoop, Spark
+- Model Interpretability: SHAP (SHapley Additive exPlanations)
 - Language: English, French
 
 ### Projects
