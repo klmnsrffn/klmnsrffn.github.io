@@ -12,7 +12,7 @@ I’ve got a B.A. in Philosophy from Universitas Gadjah Mada, where I sharpened 
 ##### UX Writer, Jobhun Academy. September - October 2022
 
 
-### Skills and Expertise\
+### Skills and Expertise
 - Programming Languages: Python, SQL\
 - Data Analysis: Exploratory Data Analysis (EDA), Statistical Analysis, Hypothesis Testing\
 - Machine Learning: Supervised and Unsupervised Learning, Model Evaluation, Hyperparameter Tuning\
