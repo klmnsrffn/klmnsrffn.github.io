@@ -1,7 +1,26 @@
 # Data Scientist
 
+### About Me
+I’ve got a B.A. in Philosophy from Universitas Gadjah Mada, where I sharpened my analytical thinking and reasoning chops. My journey into the data science realm has been fuelled by a desire to merge abstract thinking with practical application, giving me a unique angle on problem-solving.
+
 ### Education
-B.A in Philosophy, Universitas Gadjah Mada at Yogyakarta, Indonesia, August 2020
+##### B.A in Philosophy, Universitas Gadjah Mada at Yogyakarta. Indonesia. August 2020
+
+### Sertifications
+##### Data Science and Machine Learning, Purwadhika Digital Technology School at Batam, Indonesia. March - July 2024
+##### Data Analysis, MySkill Intensive Bootcamp. September - October 2023
+##### UX Writer, Jobhun Academy. September - October 2022
+
+
+### Skills and Expertise\
+Programming Languages: Python, SQL\
+Data Analysis: Exploratory Data Analysis (EDA), Statistical Analysis, Hypothesis Testing\
+Machine Learning: Supervised and Unsupervised Learning, Model Evaluation, Hyperparameter Tuning\
+Tools and Technologies: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Jupyter Notebooks\
+Data Visualisation: Matplotlib, Seaborn, Plotly, Tableau\
+Big Data Technologies: Hadoop, Spark\
+Model Interpretability: SHAP (SHapley Additive exPlanations)\
+Language: English, French
 
 ### Projects
 **Simple Library System**\
@@ -18,8 +37,9 @@ o	Conducted in-depth market analysis to identify key trends and opportunities in
 o	Analysed sales data to uncover insights and formulate strategies to increase market penetration and revenue growth.\
 o	Presented findings and strategic recommendations to senior management to inform decision-making.
 
-**Project: Sentiment Analysis and LDA Modelling on Albert Camus' Book "L'Homme Révolté" June 2024**\
+**Project: Sentiment Analysis and LDA Modelling on Albert Camus' Book "L'Homme Révolté"**\
 [Github Repository](https://github.com/klmnsrffn/CAMUS_l-homme_revolt-) | [Medium Link](https://medium.com/@klmnsrffn/unveiling-the-themes-of-albert-camus-l-homme-révolté-through-data-analysis-f4517f6795a4)\
+June 2024
 o	Conducted sentiment analysis on the text of Albert Camus' "L'Homme Révolté" to understand the emotional tone and thematic content.\
 o	Implemented Latent Dirichlet Allocation (LDA) modelling to identify and analyse key topics within the book.\
 o	Utilised Python and relevant libraries such as NLTK, SpaCy, and Gensim for text processing and modelling.\
@@ -47,7 +67,8 @@ Wrote a banging piece on Medium titled 'Philosophy Featuring Data Analysis: A Si
 Chucked out an article on Medium titled 'Harnessing Cloud NLP Services for Philosophical Research: Givin' Text Analysis and Literature a Boost'. Explored how cloud-based NLP services ramp up text analysis in philosophical research, showin' off new ways to delve into literature.
 
 ## Contact
-
+I’m always up for a chinwag with fellow data enthusiasts and professionals. Feel free to view my GitHub for code repositories or connect with me on LinkedIn for a bit of professional networking. You can also drop me a line via email. 
+Thanks for visiting my portfolio. Let’s unlock the potential of data together!
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klmnsrffn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klmnsrffn)
 [![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klmnsrffn@outlook.be)
