@@ -68,7 +68,8 @@ Chucked out an article on Medium titled 'Harnessing Cloud NLP Services for Philo
 
 ## Contact
 I’m always up for a chinwag with fellow data enthusiasts and professionals. Feel free to view my GitHub for code repositories or connect with me on LinkedIn for a bit of professional networking. You can also drop me a line via email. 
-Thanks for visiting my portfolio. Let’s unlock the potential of data together!\
+Thanks for visiting my portfolio. Let’s unlock the potential of data together!
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klmnsrffn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klmnsrffn)
 [![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klmnsrffn@outlook.be)
