@@ -1,2 +1,14 @@
 title: Ruhol Raffen
 theme: jekyll-theme-dinky
+
+<div class="profile-buttons">
+  <a href="https://github.com/klmnsrffn" class="btn btn-github">
+    <img src="path/to/github-icon.png" alt="GitHub Icon"> View On GitHub
+  </a>
+  <a href="https://www.linkedin.com/in/klmnsrffn" class="btn btn-linkedin">
+    <img src="path/to/linkedin-icon.png" alt="LinkedIn Icon"> View On LinkedIn
+  </a>
+  <a href="mailto:klmnsrffn@outlook.be" class="btn btn-email">
+    <img src="path/to/email-icon.png" alt="Email Icon"> Email Me
+  </a>
+</div>
