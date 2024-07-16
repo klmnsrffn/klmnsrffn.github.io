@@ -1,17 +1,2 @@
 title: Ruhol Raffen
-description: Welcome to my professional portfolio! I am a data scientist with a passion for extracting meaningful insights from complex data and transforming them into actionable strategies. With a solid background in philosophy and a keen interest in leveraging data to solve real-world problems, I have honed my skills in various data science methodologies, tools, and technologies.
-About Me
 theme: jekyll-theme-dinky
-
-
-<div class="profile-buttons">
-  <a href="https://github.com/klmnsrffn" class="btn btn-github">
-    <img src="path/to/github-icon.png" alt="GitHub Icon"> View On GitHub
-  </a>
-  <a href="https://www.linkedin.com/in/klmnsrffn" class="btn btn-linkedin">
-    <img src="path/to/linkedin-icon.png" alt="LinkedIn Icon"> View On LinkedIn
-  </a>
-  <a href="mailto:klmnsrffn@outlook.be" class="btn btn-email">
-    <img src="path/to/email-icon.png" alt="Email Icon"> Email Me
-  </a>
-</div>
