@@ -13,14 +13,14 @@ I’ve got a B.A. in Philosophy from Universitas Gadjah Mada, where I sharpened 
 
 
 ### Skills and Expertise\
-Programming Languages: Python, SQL\
-Data Analysis: Exploratory Data Analysis (EDA), Statistical Analysis, Hypothesis Testing\
-Machine Learning: Supervised and Unsupervised Learning, Model Evaluation, Hyperparameter Tuning\
-Tools and Technologies: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Jupyter Notebooks\
-Data Visualisation: Matplotlib, Seaborn, Plotly, Tableau\
-Big Data Technologies: Hadoop, Spark\
-Model Interpretability: SHAP (SHapley Additive exPlanations)\
-Language: English, French
+- Programming Languages: Python, SQL\
+- Data Analysis: Exploratory Data Analysis (EDA), Statistical Analysis, Hypothesis Testing\
+- Machine Learning: Supervised and Unsupervised Learning, Model Evaluation, Hyperparameter Tuning\
+- Tools and Technologies: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Jupyter Notebooks\
+- Data Visualisation: Matplotlib, Seaborn, Plotly, Tableau\
+- Big Data Technologies: Hadoop, Spark\
+- Model Interpretability: SHAP (SHapley Additive exPlanations)\
+- Language: English, French
 
 ### Projects
 **Simple Library System**\
