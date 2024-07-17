@@ -114,6 +114,7 @@
 </details>
 
 
+
 #### Contact
 
 <p>I’m always up for a chinwag with fellow data enthusiasts and professionals. Feel free to view my GitHub for code repositories or connect with me on LinkedIn for a bit of professional networking. You can also drop me a line via email. Thanks for visiting my portfolio. Let’s unlock the potential of data together!</p>
