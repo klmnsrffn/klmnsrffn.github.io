@@ -4,7 +4,7 @@
 I’ve got a B.A. in Philosophy from Universitas Gadjah Mada, where I sharpened my analytical thinking and reasoning chops. My journey into the data science realm has been fuelled by a desire to merge abstract thinking with practical application, giving me a unique angle on problem-solving.
 
 ### Education
-- BA in Philosophy, Universitas Gadjah Mada at Yogyakarta. Indonesia. August 2020
+- B.A. in Philosophy, Universitas Gadjah Mada at Yogyakarta. Indonesia. August 2020
 
 ### Sertifications
 - Data Science and Machine Learning, Purwadhika Digital Technology School at Batam, Indonesia. March - July 2024
@@ -66,7 +66,7 @@ Wrote a banging piece on Medium titled 'Philosophy Featuring Data Analysis: A Si
 [Medium Link](https://medium.com/@klmnsrffn/leveraging-cloud-nlp-services-for-philosophical-research-enhancing-text-analysis-and-literature-c9defccec47a)\
 Chucked out an article on Medium titled 'Harnessing Cloud NLP Services for Philosophical Research: Givin' Text Analysis and Literature a Boost'. Explored how cloud-based NLP services ramp up text analysis in philosophical research, showin' off new ways to delve into literature.
 
-## Contact
+### Contact
 I’m always up for a chinwag with fellow data enthusiasts and professionals. Feel free to view my GitHub for code repositories or connect with me on LinkedIn for a bit of professional networking. You can also drop me a line via email. 
 Thanks for visiting my portfolio. Let’s unlock the potential of data together!
 
