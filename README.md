@@ -1,7 +1,7 @@
 # Data Scientist
 
 ## About Me
-I’ve got a B.A. in Philosophy from Universitas Gadjah Mada, where I honed my analytical thinking and reasoning skills. My journey into data science is driven by a passion for blending abstract thinking with practical problem-solving.
+A data scientist who’s chuffed to bits about digging into data and turning it into actionable insights. With a solid background in philosophy and a knack for leveraging data to solve real-world conundrums, I’ve honed my skills in various data science methodologies, tools, and tech. My journey into data science is driven by a passion for blending abstract thinking with practical problem-solving.
 
 ## Education
 - B.A. in Philosophy, Universitas Gadjah Mada, Yogyakarta, Indonesia. August 2020
@@ -19,7 +19,6 @@ I’ve got a B.A. in Philosophy from Universitas Gadjah Mada, where I honed my a
 - Data Visualisation: Matplotlib, Seaborn, Plotly, Tableau
 - Big Data Technologies: Hadoop, Spark
 - Model Interpretability: SHAP (SHapley Additive exPlanations)
-- Language Skills: English, French
 
 ## Projects
 
