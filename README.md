@@ -1,55 +1,66 @@
-# Data Scientist
+# Data Scientist & Data Annotator Portfolio
+
+Welcome to my Data Scientist & Data Annotator portfolio! This repository contains an interactive web page showcasing my background, skills, projects, and publications. Explore the different sections to learn more about my work and expertise.
 
 ## About Me
-A data scientist who’s chuffed to bits about digging into data and turning it into actionable insights. With a solid background in philosophy and a knack for leveraging data to solve real-world conundrums, I’ve honed my skills in various data science methodologies, tools, and tech. My journey into data science is driven by a passion for blending abstract thinking with practical problem-solving.
+I’ve got a B.A. in Philosophy from Universitas Gadjah Mada, where I honed my analytical thinking and reasoning skills. My journey into data science is driven by a passion for blending abstract thinking with practical problem-solving.
 
 ## Education
-- B.A. in Philosophy, Universitas Gadjah Mada, Yogyakarta, Indonesia. August 2020
+- **B.A. in Philosophy**, Universitas Gadjah Mada, Yogyakarta, Indonesia. August 2020
 
 ## Certifications
-- Data Science and Machine Learning, Purwadhika Digital Technology School, Batam, Indonesia. March - July 2024
-- Data Analysis, MySkill Intensive Bootcamp. September - October 2023
-- UX Writer, Jobhun Academy. September - October 2022
+- **Data Science and Machine Learning**, Purwadhika Digital Technology School, Batam, Indonesia. March - July 2024
+- **Data Analysis**, MySkill Intensive Bootcamp. September - October 2023
+- **UX Writer**, Jobhun Academy. September - October 2022
 
 ## Skills and Expertise
-- Programming Languages: Python, SQL
-- Data Analysis: EDA, Statistical Analysis, Hypothesis Testing
-- Machine Learning: Supervised and Unsupervised Learning, Model Evaluation, Hyperparameter Tuning
-- Tools and Technologies: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Jupyter Notebooks
-- Data Visualisation: Matplotlib, Seaborn, Plotly, Tableau
-- Big Data Technologies: Hadoop, Spark
-- Model Interpretability: SHAP (SHapley Additive exPlanations)
+- **Programming Languages**: Python, SQL
+- **Data Analysis**: EDA, Statistical Analysis, Hypothesis Testing
+- **Machine Learning**: Supervised and Unsupervised Learning, Model Evaluation, Hyperparameter Tuning
+- **Tools and Technologies**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Jupyter Notebooks
+- **Data Visualisation**: Matplotlib, Seaborn, Plotly, Tableau
+- **Big Data Technologies**: Hadoop, Spark
+- **Model Interpretability**: SHAP (SHapley Additive exPlanations)
+- **Language Skills**: English, French
+
+## Experience
+
+### Data Annotator
+**Thoth AI**, Jakarta, Indonesia. October 2024 - Present
+- Collaborated with data science teams to annotate and label datasets accurately for machine learning models.
+- Ensured data quality and consistency by adhering to established annotation guidelines.
+- Provided feedback to improve annotation tools and workflows.
 
 ## Projects
 
 ### Simple Library System
 [GitHub Repository](https://github.com/klmnsrffn/simple_library_system)
-- March - April 2024
+- **Duration**: March - April 2024
 - Designed and implemented a CRUD application for a library system.
 - Conducted rigorous testing to ensure reliability and performance.
 - Collaborated with a small team to refine user requirements.
 
 ### Business Analysis in AWS SaaS Sales
 [GitHub Repository](https://github.com/klmnsrffn/AWS-SaaS-Sales-Analysis) | [Dashboard Tableau](https://public.tableau.com/app/profile/klemens.raffen/viz/TrendinJapanbasedonAWSSaaSSalesDatabase/Dashboard1?publish=yes)
-- May - June 2024
+- **Duration**: May - June 2024
 - Conducted market analysis to identify trends in AWS SaaS sales.
 - Analyzed sales data to formulate strategies for revenue growth.
 - Presented findings to senior management for decision-making.
 
 ### Sentiment Analysis and LDA Modelling on Albert Camus' Book "L'Homme Révolté"
 [GitHub Repository](https://github.com/klmnsrffn/CAMUS_l-homme_revolt-) | [Medium Link](https://medium.com/@klmnsrffn/unveiling-the-themes-of-albert-camus-l-homme-révolté-through-data-analysis-f4517f6795a4)
-- June 2024
+- **Duration**: June 2024
 - Conducted sentiment analysis and LDA modelling on philosophical text.
 - Used Python libraries like NLTK, SpaCy, and Gensim for analysis.
 - Visualized sentiment trends and topics using Matplotlib and Seaborn.
 
 ### Customer Lifetime Value
 [GitHub Repository](https://github.com/klmnsrffn/Customer-Lifetime-Value)
-- June - July 2024
+- **Duration**: June - July 2024
 - Developed predictive models for Customer Lifetime Value (CLV).
 - Enhanced marketing strategies and customer segmentation.
 
-## Publication
+## Publications
 
 ### Cryptographic Hashing with Python’s Hashlib Module: An Introduction
 [Medium Link](https://medium.com/@klmnsrffn/cryptographic-hashing-with-pythons-hashlib-module-an-introduction-5c63e89edbc5)
