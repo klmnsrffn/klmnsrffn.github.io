@@ -1,6 +1,6 @@
-# Data Scientist & Data Annotator Portfolio
+# Portfolio Page
 
-Welcome to my Data Scientist & Data Annotator portfolio! This repository contains an interactive web page showcasing my background, skills, projects, and publications. Explore the different sections to learn more about my work and expertise.
+Welcome to portfolio page! This repository contains an interactive web page showcasing my background, skills, projects, and publications. Explore the different sections to learn more about my work and expertise.
 
 ## About Me
 I’ve got a B.A. in Philosophy from Universitas Gadjah Mada, where I honed my analytical thinking and reasoning skills. My journey into data science is driven by a passion for blending abstract thinking with practical problem-solving.
